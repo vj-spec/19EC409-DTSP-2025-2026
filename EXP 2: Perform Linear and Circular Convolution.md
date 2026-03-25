@@ -1,4 +1,4 @@
-# EXP 1 : Linear and Circular Convolution
+# EXP 2 : Linear and Circular Convolution
 
 ## AIM: 
 
