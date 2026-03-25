@@ -105,6 +105,7 @@ a.data_bounds = [-1, min(y)-1; N, max(y)+1];
 <img width="767" height="726" alt="image" src="https://github.com/user-attachments/assets/5bde54e7-8ae7-4c2e-ad59-3d7b3f18183a" />
 
 <img width="1579" height="293" alt="image" src="https://github.com/user-attachments/assets/d65d1fb8-583f-488a-ad3d-3f69e0dcd6cf" />
+
 ## OUTPUT (Circular Convolution): 
 
 <img width="763" height="734" alt="image" src="https://github.com/user-attachments/assets/c9af1323-0f5a-497e-a148-1dd1b1436fa1" />
